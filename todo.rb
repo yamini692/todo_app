@@ -5,9 +5,10 @@ num = 0
 
 while num != 3
   puts
-  print "Choose: 1. Add  2. List  3. Exit: "
+  puts "Choose: 1. Add  2. List  3. Exit"
+  print "Enter Number : "
   num = gets.chomp.to_i
-
+  puts
   case num
   when 1
     print "Enter a task: "
