@@ -1,0 +1,23 @@
+[33mcommit 094daf4fffdfc53dc124fb1323b0b2e0d0b87d8c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mbugfix/fix-typo[m[33m)[m
+Author: yamini692 <yaminithya692@gmail.com>
+Date:   Thu Jun 12 10:51:37 2025 +0530
+
+    fix the typo in the code
+
+[33mcommit 5a2e24751ccc01b9e5faf5276203d0d59e4c6556[m[33m ([m[1;32mfeature/list_task[m[33m)[m
+Author: yamini692 <yaminithya692@gmail.com>
+Date:   Thu Jun 12 10:43:10 2025 +0530
+
+    Adding listing feature
+
+[33mcommit 1747fea4256301c4b741ace3e5c187599cad7aaf[m[33m ([m[1;31morigin/feature/add_task[m[33m, [m[1;32mfeature/add_task[m[33m)[m
+Author: yamini692 <yaminithya692@gmail.com>
+Date:   Thu Jun 12 10:12:28 2025 +0530
+
+    Add feature is added
+
+[33mcommit 7248fa449a46fa844c7ce8d09ce0b8ed36d45596[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: yamini692 <yaminithya692@gmail.com>
+Date:   Thu Jun 12 10:03:24 2025 +0530
+
+    Intial code for todo app
